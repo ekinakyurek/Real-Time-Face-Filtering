@@ -1,7 +1,7 @@
 # Real Time Face Filtering
 
 Computer Vision & Pattern Recognition class project @ Koc University  
-[Watch Demo](https://goo.gl/CqCtpn)
+[Watch Demo](https://goo.gl/CqCtpn)  
 [Read Project Report](https://goo.gl/pe8qvE)
 
 Root Unity Project is the ‘COMP408/‘ folder.  
